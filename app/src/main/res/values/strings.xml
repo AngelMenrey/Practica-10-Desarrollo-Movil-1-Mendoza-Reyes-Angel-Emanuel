@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica10MendozaReyesAngelEmanuel</string>
+    <string name="titulo">Cielo Azteca</string>
+    <string name="nosotros">Cielo Azteca es una cadena de tiendas departamentales que ha estado iluminando los hogares mexicanos desde su fundación en 1985. Con su amplia selección de productos para toda la familia, que incluyen moda, accesorios, tecnología y más, Cielo Azteca se ha convertido en un símbolo de calidad y confianza en el mercado mexicano. Con un equipo dedicado a brindar un servicio excepcional y una experiencia de compra agradable, Cielo Azteca se enorgullece de ser parte de la vida de millones de mexicanos en todo el país.</string>
+
+    <string name="cliente">Cliente</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="fecha">Fecha</string>
+
+    <string name="title_home">Nosotros</string>
+    <string name="title_dashboard">Galería</string>
+    <string name="title_notifications">Crédito</string>
+</resources>
